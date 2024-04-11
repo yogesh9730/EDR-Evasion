@@ -8,3 +8,7 @@ What is an EDR. - EDR is Endpoint Detection and Response Solution. which uses fo
 
 https://ethicalchaos.dev/2020/05/27/lets-create-an-edr-and-bypass-it-part-1/
 https://ethicalchaos.dev/2020/06/14/lets-create-an-edr-and-bypass-it-part-2/
+
+
+
+https://ethicalchaos.dev/
